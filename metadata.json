@@ -1,6 +1,6 @@
 {
   "name": "puppetlabs-chocolatey",
-  "version": "6.2.0",
+  "version": "6.1.0",
   "author": "puppetlabs",
   "summary": "Chocolatey package provider for Puppet",
   "license": "Apache-2.0",
@@ -63,5 +63,5 @@
   ],
   "pdk-version": "2.3.0",
   "template-url": "https://github.com/puppetlabs/pdk-templates.git#main",
-  "template-ref": "heads/main-0-g806810b"
+  "template-ref": "heads/main-0-gf3911d3"
 }
